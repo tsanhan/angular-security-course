@@ -1,5 +1,5 @@
 
-import * as passwordValidator from 'password-validator';
+import passwordValidator from 'password-validator';
 
 
 // Create a schema
