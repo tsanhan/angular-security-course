@@ -1,4 +1,6 @@
+import { DbUser } from "./db-user.model";
 
+export const USERS: {[ket:number]: DbUser} = {}
 
 export const LESSONS = {
 
